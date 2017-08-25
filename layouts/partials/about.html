@@ -1,0 +1,30 @@
+<div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-remove"></i>
+    </div>
+    {{ with ($.Scratch.Get "authorPicture") }}
+      <img id="about-card-picture" src="{{ . }}{{ if in . "//www.gravatar.com/avatar/" }}?s=110{{ end }}" alt="{{ i18n "global.author_picture" }}" />
+    {{ end }}
+    <h4 id="about-card-name">{{ .Site.Author.name }}</h4>
+    {{ with .Site.Author.bio }}
+      <div id="about-card-bio">{{ . | markdownify }}</div>
+    {{ end }}
+    {{ with .Site.Author.job }}
+      <div id="about-card-job" style="width: auto;">
+        {{ . | markdownify }}
+      </div>
+    {{ end }}
+    {{ with .Site.Author.location }}
+      <div id="about-card-location">
+        <i class="fa fa-map-marker"></i>
+        <br/>
+        {{ . }}
+      </div>
+    {{ end }}
+    <div style="color: #F47920; margin-top: 10px;">
+      <i class="sidebar-button-icon fa fa-lg fa-stack-overflow"></i> 
+      <a style="color: #F47920 !important;" href="https://stackoverflow.com/users/13070/mark-b">Stack Overflow Profile</a>
+    </div>
+  </div>
+</div>
