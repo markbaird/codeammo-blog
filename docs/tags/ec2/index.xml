@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EC2 on Codeammo</title>
-    <link>http://codeammo.com/tags/ec2/</link>
+    <link>https://codeammo.com/tags/ec2/</link>
     <description>Recent content in EC2 on Codeammo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Feb 2017 17:49:21 -0400</lastBuildDate>
     
-	<atom:link href="http://codeammo.com/tags/ec2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://codeammo.com/tags/ec2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>EC2 Scheduled Events as a CloudWatch Metric</title>
-      <link>http://codeammo.com/article/ec2-scheduled-events-as-a-cloudwatch-metric/</link>
+      <link>https://codeammo.com/article/ec2-scheduled-events-as-a-cloudwatch-metric/</link>
       <pubDate>Fri, 24 Feb 2017 17:49:21 -0400</pubDate>
       
-      <guid>http://codeammo.com/article/ec2-scheduled-events-as-a-cloudwatch-metric/</guid>
+      <guid>https://codeammo.com/article/ec2-scheduled-events-as-a-cloudwatch-metric/</guid>
       <description>AWS will sometimes schedule an event to occur on your EC2 instances in order to perform maintenance of the host servers. The most common event will be a scheduled stop/start sequence of your instance which allows AWS to move your instance onto different hardware. When an event is scheduled for one of your instances the only notification AWS generates is an email to your AWS root account. In my experience the AWS root account is usually associated with the CEO or CIO&amp;rsquo;s email address who may assume others are copied on the notification email, or may simply misunderstand or ignore the notification all together.</description>
     </item>
     

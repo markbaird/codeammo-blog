@@ -1,4 +1,4 @@
-baseURL = "http://codeammo.com/"
+baseURL = "https://codeammo.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Codeammo"

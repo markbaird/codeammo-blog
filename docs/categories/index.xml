@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Codeammo</title>
-    <link>http://codeammo.com/categories/</link>
+    <link>https://codeammo.com/categories/</link>
     <description>Recent content in Categories on Codeammo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://codeammo.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://codeammo.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
