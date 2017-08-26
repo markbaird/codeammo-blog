@@ -9,6 +9,8 @@ googleAnalytics = "UA-62029365-1"
 paginate = 7
 preserveTaxonomyNames = true
 
+publishDir = "docs"
+
 [permalinks]
   post = "/article/:slug/"
 

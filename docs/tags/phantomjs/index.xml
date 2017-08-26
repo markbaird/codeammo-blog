@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PhantomJS on Codeammo</title>
+    <link>http://codeammo.com/tags/phantomjs/</link>
+    <description>Recent content in PhantomJS on Codeammo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 May 2015 16:54:43 -0400</lastBuildDate>
+    
+	<atom:link href="http://codeammo.com/tags/phantomjs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Install PhantomJS on Amazon Linux</title>
+      <link>http://codeammo.com/article/install-phantomjs-on-amazon-linux/</link>
+      <pubDate>Sat, 16 May 2015 16:54:43 -0400</pubDate>
+      
+      <guid>http://codeammo.com/article/install-phantomjs-on-amazon-linux/</guid>
+      <description>&lt;p&gt;PhantomJS isn&amp;rsquo;t available from the standard Amazon Linux yum repository. Follow these steps to download a binary distribution of PhantomJS and install it on a server running Amazon Linux.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

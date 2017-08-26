@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SendGrid on Codeammo</title>
+    <link>http://codeammo.com/tags/sendgrid/</link>
+    <description>Recent content in SendGrid on Codeammo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Dec 2015 17:13:59 -0400</lastBuildDate>
+    
+	<atom:link href="http://codeammo.com/tags/sendgrid/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sendgrid Lambda Webhooks</title>
+      <link>http://codeammo.com/article/sendgrid-lambda-webhooks/</link>
+      <pubDate>Mon, 07 Dec 2015 17:13:59 -0400</pubDate>
+      
+      <guid>http://codeammo.com/article/sendgrid-lambda-webhooks/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://sendgrid.com/&#34;&gt;SendGrid&lt;/a&gt; can be configured to send events like bounces and click tracking to a URL of your choice via their
+&lt;a href=&#34;https://sendgrid.com/docs/API_Reference/Webhooks/index.html&#34;&gt;Webhooks&lt;/a&gt; feature. This post describes how to configure an
+&lt;a href=&#34;https://aws.amazon.com/lambda/&#34;&gt;AWS Lambda&lt;/a&gt; function to process these SendGrid events.
+By using Lambda you can easily handle the large amount of traffic SendGrid Webhooks can generate, while keeping costs and
+system administration work to a minimum.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
