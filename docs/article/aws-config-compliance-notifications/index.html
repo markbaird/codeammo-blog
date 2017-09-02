@@ -217,7 +217,7 @@ ga('send', 'pageview');
           
           <div class="post-content markdown" itemprop="articleBody">
             <div class="main-content-wrap">
-              <p><a href="https://aws.amazon.com/config/">AWS Config</a> is becoming a very handy service for monitoring compliance rules within your
+              <p><a href="https://aws.amazon.com/config/" target="_blank">AWS Config</a> is becoming a very handy service for monitoring compliance rules within your
 AWS account. I find it especially useful in my current job for verifying all EBS volumes and RDS instances have encryption
 enabled to meet HIPAA compliance requirements. My one frustration with this service is the lack of user-friendly
 notifications when a compliance issue is discovered. You either have to check the web console regularly or have your email
@@ -225,9 +225,9 @@ inbox blown up with a constant stream of AWS Config notifications. So today I to
 that will process AWS Config notifications and only email you the ones that indicate a change in compliance status.
 </p>
 
-<p>I have published this Lambda function to GitHub <a href="https://github.com/markbaird/aws-config-compliance-notifications">here</a>
+<p>I have published this Lambda function to GitHub <a href="https://github.com/markbaird/aws-config-compliance-notifications" target="_blank">here</a>
 along with setup instructions. The current version uses the Amazon
-SES service to send notification emails. The function is written in NodeJS. I&rsquo;ve used <a href="https://github.com/apex/apex">the Apex framework</a> to build and deploy
+SES service to send notification emails. The function is written in NodeJS. I&rsquo;ve used <a href="https://github.com/apex/apex" target="_blank">the Apex framework</a> to build and deploy
 the Lambda function, but it is so simple you could easily copy/paste the function code into your AWS Lambda console. The
 function uses two Lambda environment variables to determine the from address and the to addresses in the notification emails.</p>
 
@@ -235,7 +235,7 @@ function uses two Lambda environment variables to determine the from address and
 
 <hr />
 
-<p>Project link on GitHub: <a href="https://github.com/markbaird/aws-config-compliance-notifications">AWS Config Compliance Notifications</a></p>
+<p>Project link on GitHub: <a href="https://github.com/markbaird/aws-config-compliance-notifications" target="_blank">AWS Config Compliance Notifications</a></p>
               
             </div>
           </div>
@@ -495,7 +495,7 @@ function uses two Lambda environment variables to determine the from address and
                   Feb 2, 2017
                 </span>
               </span>
-              <div class="media-content hide-xs font-merryweather"><p><a href="https://aws.amazon.com/config/">AWS Config</a> is becoming a very handy service for monitoring compliance rules within your
+              <div class="media-content hide-xs font-merryweather"><p><a href="https://aws.amazon.com/config/" target="_blank">AWS Config</a> is becoming a very handy service for monitoring compliance rules within your
 AWS account. I find it especially useful in my current job for verifying all EBS volumes and RDS instances have encryption
 enabled to meet HIPAA compliance requirements. My one frustration with this service is the lack of user-friendly
 notifications when a compliance issue is discovered. You either have to check the web console regularly or have your email
@@ -518,9 +518,9 @@ that will process AWS Config notifications and only email you the ones that indi
                   Dec 12, 2015
                 </span>
               </span>
-              <div class="media-content hide-xs font-merryweather"><p><a href="https://sendgrid.com/">SendGrid</a> can be configured to send events like bounces and click tracking to a URL of your choice via their
-<a href="https://sendgrid.com/docs/API_Reference/Webhooks/index.html">Webhooks</a> feature. This post describes how to configure an
-<a href="https://aws.amazon.com/lambda/">AWS Lambda</a> function to process these SendGrid events.
+              <div class="media-content hide-xs font-merryweather"><p><a href="https://sendgrid.com/" target="_blank">SendGrid</a> can be configured to send events like bounces and click tracking to a URL of your choice via their
+<a href="https://sendgrid.com/docs/API_Reference/Webhooks/index.html" target="_blank">Webhooks</a> feature. This post describes how to configure an
+<a href="https://aws.amazon.com/lambda/" target="_blank">AWS Lambda</a> function to process these SendGrid events.
 By using Lambda you can easily handle the large amount of traffic SendGrid Webhooks can generate, while keeping costs and
 system administration work to a minimum.
 </p></div>
