@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Secrets Manager on Codeammo</title>
+    <link>https://codeammo.com/tags/secrets-manager/</link>
+    <description>Recent content in Secrets Manager on Codeammo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 May 2020 00:49:21 -0400</lastBuildDate>
+    
+	<atom:link href="https://codeammo.com/tags/secrets-manager/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using AWS Secrets Manager with Concourse CI</title>
+      <link>https://codeammo.com/article/using-aws-secrets-manager-with-concourse-ci/</link>
+      <pubDate>Mon, 25 May 2020 00:49:21 -0400</pubDate>
+      
+      <guid>https://codeammo.com/article/using-aws-secrets-manager-with-concourse-ci/</guid>
+      <description>&lt;p&gt;Using &lt;a href=&#34;https://aws.amazon.com/secrets-manager/&#34; target=&#34;_blank&#34;&gt;AWS Secrets Manager&lt;/a&gt; as a credential manager for
+&lt;a href=&#34;https://concourse-ci.org/&#34; target=&#34;_blank&#34;&gt;Concourse CI&lt;/a&gt; works well,
+however &lt;a href=&#34;https://concourse-ci.org/aws-asm-credential-manager.html&#34; target=&#34;_blank&#34;&gt;the official documentation&lt;/a&gt; currently leaves
+out several critical details needed to utilize it properly. These are my notes to fill in the gaps in the documentation.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
