@@ -310,7 +310,7 @@ in the Concourse team <strong>my-team</strong>:</p>
         <td class="code">
           <pre class="yaml code-highlight">task: Deploy
 params:
-  SOME_SECRET: ((my_secret_value))</pre>
+  SOME_SECRET: ((my_secret_key))</pre>
         </td>
       </tr>
     </tbody>
@@ -457,7 +457,7 @@ params:
         <td class="code">
           <pre class="bash code-highlight">aws secretsmanager create-secret 
     --name /concourse/my-team/git_ssh_key \
-    --secret-string file://git-ssh.pem \</pre>
+    --secret-string file://git-ssh.pem</pre>
         </td>
       </tr>
     </tbody>
