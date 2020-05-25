@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://codeammo.com/article/using-aws-secrets-manager-with-concourse-ci/</loc>
+    <lastmod>2020-05-25T00:49:21-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://codeammo.com/article/ec2-scheduled-events-as-a-cloudwatch-metric/</loc>
     <lastmod>2017-02-24T17:49:21-04:00</lastmod>
   </url>
@@ -24,7 +29,7 @@
   
   <url>
     <loc>https://codeammo.com/tags/aws/</loc>
-    <lastmod>2017-02-24T17:49:21-04:00</lastmod>
+    <lastmod>2020-05-25T00:49:21-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -46,7 +51,13 @@
   
   <url>
     <loc>https://codeammo.com/</loc>
-    <lastmod>2017-02-24T17:49:21-04:00</lastmod>
+    <lastmod>2020-05-25T00:49:21-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://codeammo.com/tags/concourse-ci/</loc>
+    <lastmod>2020-05-25T00:49:21-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -76,7 +87,13 @@
   
   <url>
     <loc>https://codeammo.com/post/</loc>
-    <lastmod>2017-02-24T17:49:21-04:00</lastmod>
+    <lastmod>2020-05-25T00:49:21-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://codeammo.com/tags/secrets-manager/</loc>
+    <lastmod>2020-05-25T00:49:21-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -88,7 +105,7 @@
   
   <url>
     <loc>https://codeammo.com/tags/</loc>
-    <lastmod>2017-02-24T17:49:21-04:00</lastmod>
+    <lastmod>2020-05-25T00:49:21-04:00</lastmod>
     <priority>0</priority>
   </url>
   

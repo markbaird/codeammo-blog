@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Codeammo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Feb 2017 17:49:21 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2020 00:49:21 -0400</lastBuildDate>
     
 	<atom:link href="https://codeammo.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>AWS</title>
       <link>https://codeammo.com/tags/aws/</link>
-      <pubDate>Fri, 24 Feb 2017 17:49:21 -0400</pubDate>
+      <pubDate>Mon, 25 May 2020 00:49:21 -0400</pubDate>
       
       <guid>https://codeammo.com/tags/aws/</guid>
       <description></description>
@@ -26,6 +26,15 @@
       <pubDate>Fri, 24 Feb 2017 17:49:21 -0400</pubDate>
       
       <guid>https://codeammo.com/tags/cloudwatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concourse CI</title>
+      <link>https://codeammo.com/tags/concourse-ci/</link>
+      <pubDate>Mon, 25 May 2020 00:49:21 -0400</pubDate>
+      
+      <guid>https://codeammo.com/tags/concourse-ci/</guid>
       <description></description>
     </item>
     
@@ -62,6 +71,15 @@
       <pubDate>Sat, 16 May 2015 16:54:43 -0400</pubDate>
       
       <guid>https://codeammo.com/tags/phantomjs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secrets Manager</title>
+      <link>https://codeammo.com/tags/secrets-manager/</link>
+      <pubDate>Mon, 25 May 2020 00:49:21 -0400</pubDate>
+      
+      <guid>https://codeammo.com/tags/secrets-manager/</guid>
       <description></description>
     </item>
     
