@@ -82,7 +82,8 @@ params:
 {{< /codeblock >}}
 
 ----------
-Example 3:
+#### Example 3:
+
 Add a multi-line string value secret in Secrets Manager, that is shared by all pipelines in the team **my-team**:
 
 {{< codeblock "create-secret.sh" "bash" >}}
