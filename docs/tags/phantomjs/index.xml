@@ -17,8 +17,7 @@
       <pubDate>Sat, 16 May 2015 16:54:43 -0400</pubDate>
       
       <guid>https://codeammo.com/article/install-phantomjs-on-amazon-linux/</guid>
-      <description>&lt;p&gt;PhantomJS isn&amp;rsquo;t available from the standard Amazon Linux yum repository. Follow these steps to download a binary distribution of PhantomJS and install it on a server running Amazon Linux.
-&lt;/p&gt;</description>
+      <description>&lt;p&gt;PhantomJS isn&amp;rsquo;t available from the standard Amazon Linux yum repository. Follow these steps to download a binary distribution of PhantomJS and install it on a server running Amazon Linux.&lt;/p&gt;</description>
     </item>
     
   </channel>

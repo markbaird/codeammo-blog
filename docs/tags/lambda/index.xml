@@ -31,8 +31,7 @@ AWS account. I find it especially useful in my current job for verifying all EBS
 enabled to meet HIPAA compliance requirements. My one frustration with this service is the lack of user-friendly
 notifications when a compliance issue is discovered. You either have to check the web console regularly or have your email
 inbox blown up with a constant stream of AWS Config notifications. So today I took the time to create an AWS Lambda function
-that will process AWS Config notifications and only email you the ones that indicate a change in compliance status.
-&lt;/p&gt;</description>
+that will process AWS Config notifications and only email you the ones that indicate a change in compliance status.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -45,8 +44,7 @@ that will process AWS Config notifications and only email you the ones that indi
 &lt;a href=&#34;https://sendgrid.com/docs/API_Reference/Webhooks/index.html&#34; target=&#34;_blank&#34;&gt;Webhooks&lt;/a&gt; feature. This post describes how to configure an
 &lt;a href=&#34;https://aws.amazon.com/lambda/&#34; target=&#34;_blank&#34;&gt;AWS Lambda&lt;/a&gt; function to process these SendGrid events.
 By using Lambda you can easily handle the large amount of traffic SendGrid Webhooks can generate, while keeping costs and
-system administration work to a minimum.
-&lt;/p&gt;</description>
+system administration work to a minimum.&lt;/p&gt;</description>
     </item>
     
   </channel>

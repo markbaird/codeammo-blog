@@ -21,8 +21,7 @@
 &lt;a href=&#34;https://sendgrid.com/docs/API_Reference/Webhooks/index.html&#34; target=&#34;_blank&#34;&gt;Webhooks&lt;/a&gt; feature. This post describes how to configure an
 &lt;a href=&#34;https://aws.amazon.com/lambda/&#34; target=&#34;_blank&#34;&gt;AWS Lambda&lt;/a&gt; function to process these SendGrid events.
 By using Lambda you can easily handle the large amount of traffic SendGrid Webhooks can generate, while keeping costs and
-system administration work to a minimum.
-&lt;/p&gt;</description>
+system administration work to a minimum.&lt;/p&gt;</description>
     </item>
     
   </channel>
