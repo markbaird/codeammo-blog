@@ -52,7 +52,7 @@ aws secretsmanager create-secret \
 {{< codeblock "pipeline.yml" "yaml" >}}
 task: Deploy
 params:
-  SOME_SECRET: ((my_secret_value))
+  SOME_SECRET: ((my_secret_key))
 {{< /codeblock >}}
 
 ----------
@@ -89,7 +89,7 @@ Add a multi-line string value secret in Secrets Manager, that is shared by all p
 {{< codeblock "create-secret.sh" "bash" >}}
 aws secretsmanager create-secret 
     --name /concourse/my-team/git_ssh_key \
-    --secret-string file://git-ssh.pem \
+    --secret-string file://git-ssh.pem
 {{< /codeblock >}}
 
 {{< codeblock "pipeline.yml" "yaml" >}}
